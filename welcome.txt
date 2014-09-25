@@ -1,5 +1,0 @@
-Hi everyone!
-
-welcome to the github pages repo for the LC Programming Club
-
-Trevor will work along on getting this site set up as quickly as he can, until we decide to move to a differently hosted site.
